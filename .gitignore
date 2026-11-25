@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.db
+.env
+scan-report.md
+scan-report.json
